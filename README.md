@@ -2,7 +2,7 @@
 
 ## Images
 
-[![agnes-video-generator](https://opengraph.githubassets.com/1/https://github.com/lcy362/agnes-video-generator)](https://www.swifttechco.com)
+[![agnes-video-generator](https://opengraph.githubassets.com/1/lcy362/agnes-video-generator)](https://www.swifttechco.com)
 
 
 [![中文](https://img.shields.io/badge/CN-中文-red)](/README_ZH.md)
