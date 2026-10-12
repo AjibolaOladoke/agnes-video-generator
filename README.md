@@ -141,3 +141,11 @@ Compiled and maintained from upstream [lcy362/agnes-video-generator](https://git
 ---
 
 Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
+
+## Sources
+
+Compiled and maintained from upstream [lcy362/agnes-video-generator](https://github.com/lcy362/agnes-video-generator) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
