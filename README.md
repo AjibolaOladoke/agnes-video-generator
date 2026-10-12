@@ -6,7 +6,7 @@ We keep a working index for product and engineering, and agnes-video-generator i
 
 ## Images
 
-[![agnes-video-generator](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![agnes-video-generator](images/preview.png)](https://github.com/Swift-Tech-Co/agnes-video-generator)
 
 ## 🚀 Two Ways to Use  Both Completely Free
 
@@ -38,16 +38,13 @@ If you find this project helpful, here are a few ways to support its continued d
 
 > A dark-twist fairytale  *The Frog Prince*, 5 scenes, keyframes chaining, fully auto-generated.
 
-
 ### 2. Creative Video  With TTS Narration
 
 > Same *Frog Prince* story, now with AI-generated TTS narration and auto subtitles.
 
-
 ### 3. Manuscript Video  Text-to-Video
 
 > Paste a long article or script → auto-split into segments → AI video per segment → unified TTS narration + subtitles → final video.
-
 
 <sub>Click to watch on Douyin</sub>
 
@@ -126,13 +123,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/agnes-video-generator
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [lcy362/agnes-video-generator](https://github.com/lcy362/agnes-video-generator) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
